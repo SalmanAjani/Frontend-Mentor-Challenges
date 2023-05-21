@@ -1,1 +1,1 @@
-# frontend-mentor-challenges-repo
+Frontend Mentor Challenges Repository.
